@@ -1,6 +1,10 @@
-# PicPro
+<h1 align="center"><strong> PicPro </strong></h1>
 
 Projeto desenvolvido para o evento PicPro ministrado pelos instrutores da Kenzie Academy Brasil em parceria com o PicPay.
+
+## Link do projeto via GitHub Pages
+
+- https://r0drigu3s.github.io/PicPro/
 
 ## Ferramentas
 
